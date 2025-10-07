@@ -4,6 +4,7 @@
 <img src="handwritinglogo.svg" alt="oxocero" width="180">
 </td>
 <td>
+<span style="font-family: 'EB Garamond', Calluna, serif;">
 
 # yo
 
@@ -19,6 +20,7 @@
 
 [oxocero.moe](https://oxocero.moe) · [x.com/oxocero](https://x.com/oxocero)
 
+</span>
 </td>
 </tr>
 </table>
