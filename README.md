@@ -17,10 +17,6 @@ and ideas I wanted to explore properly.
 Below is a non-exhaustive overview of projects I’m working on or planning over the long term.
 Many of these are slow, exploratory efforts meant to span years rather than releases and some of them are private for now.
 
-## long-term projects & directions
-
-Below is a non-exhaustive overview of projects I’m working on or planning over the long term.
-Most of these are slow, exploratory efforts meant to span years rather than releases.
 
 | area | projects |
 |-----|----------|
