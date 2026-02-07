@@ -32,5 +32,5 @@ Many of these are slow, exploratory efforts meant to span years rather than rele
 
 ---
 
-*Most of these projects are intentionally exploratory, unfinished, or long-running.
+Most of these projects are intentionally exploratory, unfinished, or long-running.
 The goal is learning, understanding systems deeply, and building things I’d want to exist — not chasing polish or trends.
