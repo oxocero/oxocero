@@ -23,7 +23,7 @@ Many of these are slow, exploratory efforts meant to span years rather than rele
 - **termina-demo** — a large collection of example applications showcasing Termina’s capabilities.
 - **cursechat** — a TUI-based chat and file transfer application built in Go, using Termina and the EVCCP protocol.
 
-### protocols, serialization & communication
+### protocols, serialisation & communication
 - **evccp** — an experimental chat and file transfer protocol.
   - `evccp-c`, `evccp-go`, `evccp-py` — reference implementations in C, Go, and Python.
 - **evcgf** — a draft design for a Cap’n Proto / Protobuf–like serialization format and RPC framework.
@@ -66,4 +66,5 @@ Many of these are slow, exploratory efforts meant to span years rather than rele
 ---
 
 *Most of these projects are intentionally exploratory, unfinished, or long-running.
+The goal is learning, understanding systems deeply, and building things I’d want to exist — not chasing polish or trends.
 The goal is learning, understanding systems deeply, and building things I’d want to exist — not chasing polish or trends.
